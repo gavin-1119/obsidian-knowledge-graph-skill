@@ -1,0 +1,4 @@
+interface:
+  display_name: "知识图谱更新"
+  short_description: "归档源材料，分类领域知识并更新 Obsidian 关系图谱"
+  default_prompt: "使用 $knowledge-graph-update 将这篇文章或文件归档到 20_源材料，按当前 Vault 规则提炼并分类到 10_领域，再更新 Home 与关系图谱。"
